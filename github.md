@@ -1,6 +1,6 @@
 Main
 ——————————————————————-
-\_********\_\_\_********/
+\_**\*\*\*\***\_\_\_**\*\*\*\***/
 branch to do some work and then merge
 
             how do I create a branch?
@@ -24,3 +24,5 @@ branch to do some work and then merge
             to push the branch
 
             git push origin <branch name>
+
+            git - gets you to the last branch you were on
